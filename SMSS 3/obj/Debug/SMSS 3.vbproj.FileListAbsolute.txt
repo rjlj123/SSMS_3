@@ -1,0 +1,35 @@
+H:\Computing Project\SMSS 3\SMSS 3\bin\Debug\SMSS 3.exe.config
+H:\Computing Project\SMSS 3\SMSS 3\bin\Debug\SMSS 3.exe
+H:\Computing Project\SMSS 3\SMSS 3\bin\Debug\SMSS 3.pdb
+H:\Computing Project\SMSS 3\SMSS 3\bin\Debug\SMSS 3.xml
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS 3.vbprojAssemblyReference.cache
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS 3.vbproj.GenerateResource.cache
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS 3.vbproj.CoreCompileInputs.cache
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS 3.exe
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS 3.xml
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS 3.pdb
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS_3.Login.resources
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+H:\Computing Project\SMSS 3\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+H:\Computing Project\SSMS 3\SMSS 3\bin\Debug\SMSS 3.exe.config
+H:\Computing Project\SSMS 3\SMSS 3\bin\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3\SMSS 3\bin\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3\SMSS 3\bin\Debug\SMSS 3.xml
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Login.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS 3.vbproj.GenerateResource.cache
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS 3.xml
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS 3.vbprojAssemblyReference.cache
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS 3.vbproj.CoreCompileInputs.cache

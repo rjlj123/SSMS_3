@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E8C6AD5D-EDD6-4ADC-B811-05FA7F11B276}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SSMS_Admin.My.MyApplication</StartupObject>
+    <RootNamespace>SSMS_Admin</RootNamespace>
+    <AssemblyName>SSMS Admin</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SSMS Admin.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SSMS Admin.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fgt_Pass.Designer.vb">
+      <DependentUpon>Fgt_Pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fgt_Pass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Global_Variables.vb" />
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Menu.Designer.vb">
+      <DependentUpon>Main_Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main_Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Backroom_Bins.Designer.vb">
+      <DependentUpon>Manage_Backroom_Bins.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Backroom_Bins.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Backroom.Designer.vb">
+      <DependentUpon>Manage_Backroom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Backroom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Backroom_Departments.Designer.vb">
+      <DependentUpon>Manage_Backroom_Departments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Backroom_Departments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_SIA.Designer.vb">
+      <DependentUpon>Manage_SIA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_SIA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Staff.Designer.vb">
+      <DependentUpon>Manage_Staff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Staff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Staff_New.Designer.vb">
+      <DependentUpon>Manage_Staff_New.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Staff_New.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Staff_Pass.Designer.vb">
+      <DependentUpon>Manage_Staff_Pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Staff_Pass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Staff_View.Designer.vb">
+      <DependentUpon>Manage_Staff_View.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Staff_View.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Stock.Designer.vb">
+      <DependentUpon>Manage_Stock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Stock_Add.Designer.vb">
+      <DependentUpon>Manage_Stock_Add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Stock_Add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Stock_Del.Designer.vb">
+      <DependentUpon>Manage_Stock_Del.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Stock_Del.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Stock_View.Designer.vb">
+      <DependentUpon>Manage_Stock_View.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Stock_View.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="My_Profile.Designer.vb">
+      <DependentUpon>My_Profile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="My_Profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales_Data_Order_Lists.Designer.vb">
+      <DependentUpon>Sales_Data_Order_Lists.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sales_Data_Order_Lists.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales_Data.Designer.vb">
+      <DependentUpon>Sales_Data.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sales_Data.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales_Data_Sales_Average.Designer.vb">
+      <DependentUpon>Sales_Data_Sales_Average.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sales_Data_Sales_Average.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shop_Floor.Designer.vb">
+      <DependentUpon>Shop_Floor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Shop_Floor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shop_Floor_Price_Changes.Designer.vb">
+      <DependentUpon>Shop_Floor_Price_Changes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Shop_Floor_Price_Changes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shop_Floor_Verifications.Designer.vb">
+      <DependentUpon>Shop_Floor_Verifications.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Shop_Floor_Verifications.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SSMS_DATABASEDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SSMS_DATABASEDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Fgt_Pass.resx">
+      <DependentUpon>Fgt_Pass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Menu.resx">
+      <DependentUpon>Main_Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Backroom_Bins.resx">
+      <DependentUpon>Manage_Backroom_Bins.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Backroom.resx">
+      <DependentUpon>Manage_Backroom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Backroom_Departments.resx">
+      <DependentUpon>Manage_Backroom_Departments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_SIA.resx">
+      <DependentUpon>Manage_SIA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Staff.resx">
+      <DependentUpon>Manage_Staff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Staff_New.resx">
+      <DependentUpon>Manage_Staff_New.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Staff_Pass.resx">
+      <DependentUpon>Manage_Staff_Pass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Staff_View.resx">
+      <DependentUpon>Manage_Staff_View.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Stock.resx">
+      <DependentUpon>Manage_Stock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Stock_Add.resx">
+      <DependentUpon>Manage_Stock_Add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Stock_Del.resx">
+      <DependentUpon>Manage_Stock_Del.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Stock_View.resx">
+      <DependentUpon>Manage_Stock_View.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My_Profile.resx">
+      <DependentUpon>My_Profile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sales_Data.resx">
+      <DependentUpon>Sales_Data.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sales_Data_Order_Lists.resx">
+      <DependentUpon>Sales_Data_Order_Lists.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sales_Data_Sales_Average.resx">
+      <DependentUpon>Sales_Data_Sales_Average.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shop_Floor.resx">
+      <DependentUpon>Shop_Floor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shop_Floor_Price_Changes.resx">
+      <DependentUpon>Shop_Floor_Price_Changes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shop_Floor_Verifications.resx">
+      <DependentUpon>Shop_Floor_Verifications.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="SSMS_DATABASEDataSet.xsc">
+      <DependentUpon>SSMS_DATABASEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SSMS_DATABASEDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SSMS_DATABASEDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SSMS_DATABASEDataSet.xss">
+      <DependentUpon>SSMS_DATABASEDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Potential Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\009-barcode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SSMS_DATABASE.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

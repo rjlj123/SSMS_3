@@ -1,0 +1,219 @@
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe.config
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.pdb
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.xml
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Login.resources
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Main_Menu.resources
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Resources.resources
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.GenerateResource.cache
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.exe
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.xml
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.pdb
+H:\Computing Project\SSMS 3 - Version 3\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Fgt_Pass.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe.config
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.exe
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.xml
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.pdb
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Fgt_Pass.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Login.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Main_Menu.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_New.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_Pass.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_View.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Resources.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.GenerateResource.cache
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.pdb
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.xml
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.My_Profile.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Add.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Del.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_View.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_SIA.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom_Departments.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Price_Changes.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Verifications.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Order_Lists.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Sales_Average.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe.config
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.exe
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.xml
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.pdb
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.pdb
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.xml
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Fgt_Pass.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Login.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Main_Menu.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manager_Backroom_Bins.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom_Departments.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_SIA.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_New.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_Pass.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_View.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Add.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Del.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_View.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Resources.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.My_Profile.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Order_Lists.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Sales_Average.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Price_Changes.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Verifications.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.GenerateResource.Cache
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom_Bins.resources
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbprojAssemblyReference.cache
+H:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.CoreCompileInputs.cache
+D:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe.config
+D:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.exe
+D:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.xml
+D:\Computing Project\SSMS 3 - Version 4\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.pdb
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe.config
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.exe
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.xml
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.pdb
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.pdb
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.xml
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Fgt_Pass.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Login.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Main_Menu.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom_Bins.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom_Departments.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_SIA.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_New.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_Pass.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_View.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Add.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Del.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_View.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Resources.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.My_Profile.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Order_Lists.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Sales_Average.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Price_Changes.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Verifications.resources
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.GenerateResource.Cache
+D:\Computing Project\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS_DATABASE.accdb
+D:\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe.config
+D:\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.exe
+D:\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.xml
+D:\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.pdb
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS_DATABASE.accdb
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe.config
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.pdb
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.xml
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbprojAssemblyReference.cache
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Fgt_Pass.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Login.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Main_Menu.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom_Bins.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom_Departments.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_SIA.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_New.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_Pass.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_View.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Add.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Del.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_View.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Resources.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.My_Profile.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Order_Lists.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Sales_Average.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Price_Changes.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Verifications.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.GenerateResource.cache
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.CoreCompileInputs.cache
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.exe
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.xml
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.pdb
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS_DATABASE.accdb
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe.config
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.pdb
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.xml
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbprojAssemblyReference.cache
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Fgt_Pass.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Login.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Main_Menu.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom_Bins.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom_Departments.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_SIA.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_New.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_Pass.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_View.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Add.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Del.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_View.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Resources.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.My_Profile.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Order_Lists.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Sales_Average.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Price_Changes.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Verifications.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.GenerateResource.cache
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.CoreCompileInputs.cache
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.exe
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.xml
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.pdb
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS_DATABASE.accdb
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe.config
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.exe
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.pdb
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\bin\Debug\SSMS Admin.xml
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.AssemblyReference.cache
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.SuggestedBindingRedirects.cache
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Fgt_Pass.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Login.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Main_Menu.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom_Bins.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Backroom_Departments.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_SIA.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_New.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_Pass.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Staff_View.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Add.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_Del.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Manage_Stock_View.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Resources.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.My_Profile.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Order_Lists.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Sales_Data_Sales_Average.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Price_Changes.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS_Admin.Shop_Floor_Verifications.resources
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.GenerateResource.cache
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.vbproj.CoreCompileInputs.cache
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.exe
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.xml
+D:\Upload\SSMS 3 - Final\SSMS Admin\SSMS Admin\obj\Debug\SSMS Admin.pdb

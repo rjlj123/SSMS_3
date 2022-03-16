@@ -1,0 +1,221 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SSMS Admin
+</name>
+</assembly>
+<members>
+<member name="T:SSMS_Admin.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SSMS_Admin.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SSMS_Admin.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SSMS_Admin.My.Resources.Resources._009_barcode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SSMS_Admin.My.Resources.Resources.Potential_Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.BinDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.Count_VerificationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.DepartmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.ProductDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.Product_BinDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.StaffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.Sub_DepartmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.BinRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.Count_VerificationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.DepartmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.ProductRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.Product_BinRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.StaffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.Sub_DepartmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.BinRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.Count_VerificationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.DepartmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.ProductRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.Product_BinRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.StaffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSet.Sub_DepartmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.BinTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.Count_VerificationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.DepartmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.ProductTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.Product_BinTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.StaffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.Sub_DepartmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SSMS_Admin.SSMS_DATABASEDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SSMS_Admin.SSMS_DATABASEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SSMS_Admin.SSMS_DATABASEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.TableAdapterManager.UpdateAll(SSMS_Admin.SSMS_DATABASEDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SSMS_Admin.SSMS_DATABASEDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

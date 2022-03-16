@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53619735-6CAF-498A-A3CD-908D6C182090}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SMSS_3.My.MyApplication</StartupObject>
+    <RootNamespace>SMSS_3</RootNamespace>
+    <AssemblyName>SMSS 3</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SMSS 3.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SMSS 3.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_Item.Designer.vb">
+      <DependentUpon>Add_Item.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Item.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Binning_1.Designer.vb">
+      <DependentUpon>Binning_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Binning_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Binning_2.Designer.vb">
+      <DependentUpon>Binning_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Binning_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Binning_3.Designer.vb">
+      <DependentUpon>Binning_3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Binning_3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Binning_4.Designer.vb">
+      <DependentUpon>Binning_4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Binning_4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Count_1.Designer.vb">
+      <DependentUpon>Count_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Count_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Count_2.Designer.vb">
+      <DependentUpon>Count_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Count_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Item.Designer.vb">
+      <DependentUpon>Del_Item.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Item.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fgt_Pass.Designer.vb">
+      <DependentUpon>Fgt_Pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fgt_Pass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Global_Variables.vb" />
+    <Compile Include="Item_Management.Designer.vb">
+      <DependentUpon>Item_Management.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Item_Management.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Item_Search.Designer.vb">
+      <DependentUpon>Item_Search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Item_Search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log_Out.Designer.vb">
+      <DependentUpon>Log_Out.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Log_Out.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Menu.Designer.vb">
+      <DependentUpon>Main_Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main_Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pick_1.Designer.vb">
+      <DependentUpon>Pick_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pick_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pick_SIA.Designer.vb">
+      <DependentUpon>Pick_SIA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pick_SIA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales_Floor.Designer.vb">
+      <DependentUpon>Sales_Floor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sales_Floor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spl_Scr.Designer.vb">
+      <DependentUpon>Spl_Scr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Spl_Scr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SSMS_DATABASEDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SSMS_DATABASEDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Add_Item.resx">
+      <DependentUpon>Add_Item.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Binning_1.resx">
+      <DependentUpon>Binning_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Binning_2.resx">
+      <DependentUpon>Binning_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Binning_3.resx">
+      <DependentUpon>Binning_3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Binning_4.resx">
+      <DependentUpon>Binning_4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Count_1.resx">
+      <DependentUpon>Count_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Count_2.resx">
+      <DependentUpon>Count_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_Item.resx">
+      <DependentUpon>Del_Item.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fgt_Pass.resx">
+      <DependentUpon>Fgt_Pass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Item_Management.resx">
+      <DependentUpon>Item_Management.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Item_Search.resx">
+      <DependentUpon>Item_Search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log_Out.resx">
+      <DependentUpon>Log_Out.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Menu.resx">
+      <DependentUpon>Main_Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pick_1.resx">
+      <DependentUpon>Pick_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pick_SIA.resx">
+      <DependentUpon>Pick_SIA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sales_Floor.resx">
+      <DependentUpon>Sales_Floor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spl_Scr.resx">
+      <DependentUpon>Spl_Scr.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="SSMS_DATABASEDataSet.xsc">
+      <DependentUpon>SSMS_DATABASEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SSMS_DATABASEDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SSMS_DATABASEDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SSMS_DATABASEDataSet.xss">
+      <DependentUpon>SSMS_DATABASEDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_transparent_Cropped.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banner_New.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banner_Transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Binning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Counting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Transparent 1.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Transparent 2.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log Out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Itm_Del.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banner1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banner_Sized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\023-packaging.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\012-check-mark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\022-unpacking.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\019-check-mark-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\032-mailing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\043-exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\043-exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\043-exit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\004-forward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\004-next-page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\005-home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\009-barcode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\003-trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SSMS_DATABASE.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

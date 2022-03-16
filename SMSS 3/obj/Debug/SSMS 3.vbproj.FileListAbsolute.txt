@@ -1,0 +1,344 @@
+H:\Computing Project\SSMS 3\SMSS 3\bin\Debug\SMSS 3.exe.config
+H:\Computing Project\SSMS 3\SMSS 3\bin\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3\SMSS 3\bin\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3\SMSS 3\bin\Debug\SMSS 3.xml
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Login.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.cache
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS 3.xml
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\bin\Debug\SMSS 3.exe.config
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS 3.xml
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Login.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.Cache
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\bin\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\bin\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3 - Version 0\SMSS 3\bin\Debug\SMSS 3.xml
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Fgt_Pass.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Count_1.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Count_2.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Log_Out.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Pick_1.resources
+H:\Computing Project\SSMS 3\SMSS 3\obj\Debug\SMSS_3.Pick_2.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\bin\Debug\SMSS 3.exe.config
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\bin\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\bin\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\bin\Debug\SMSS 3.xml
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Count_1.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Count_2.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Fgt_Pass.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Login.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Log_Out.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Pick_1.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Pick_2.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.cache
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS 3.xml
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SSMS 3.vbprojAssemblyReference.cache
+H:\Computing Project\SSMS 3 - Version 2\SMSS 3\obj\Debug\SSMS 3.vbproj.CoreCompileInputs.cache
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Count_1.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Count_2.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Fgt_Pass.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Login.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Log_Out.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Pick_1.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Pick_2.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.cache
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS 3.xml
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\bin\Debug\SMSS 3.exe.config
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\bin\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\bin\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\bin\Debug\SMSS 3.xml
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SSMS 3.vbprojAssemblyReference.cache
+H:\Computing Project\SSMS 3 - Version 3\SMSS 3\obj\Debug\SSMS 3.vbproj.CoreCompileInputs.cache
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Count_1.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Count_2.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Fgt_Pass.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Login.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Log_Out.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Pick_1.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.cache
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.xml
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.exe.config
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.exe
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.pdb
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.xml
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.exe.config
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.exe
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.pdb
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.xml
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SSMS 3.vbprojAssemblyReference.cache
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Count_1.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Count_2.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Fgt_Pass.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Login.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Log_Out.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Pick_1.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Pick_2.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.cache
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SSMS 3.vbproj.CoreCompileInputs.cache
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.exe
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.xml
+F:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.pdb
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.exe.config
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.exe
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.xml
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.pdb
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.exe
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.pdb
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.xml
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Count_1.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Count_2.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Fgt_Pass.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Login.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Log_Out.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Pick_1.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.Cache
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SSMS 3.vbprojResolveAssemblyReference.cache
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.exe.config
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.exe
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.xml
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS 3.pdb
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.exe
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.pdb
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\bin\Debug\SMSS 3.xml
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Count_1.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Count_2.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Fgt_Pass.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Login.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Log_Out.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Pick_1.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.Cache
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SSMS 3.vbprojResolveAssemblyReference.cache
+H:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Pick_SIA.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SSMS 3.vbprojAssemblyReference.cache
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Pick_SIA.resources
+\\eifilevm02\homedirs$\Student\10182631\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SSMS 3.vbproj.CoreCompileInputs.cache
+D:\Computing Project\SSMS 3 - Version 4\SMSS 3\obj\Debug\SMSS_3.Pick_SIA.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.exe.config
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.exe
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.xml
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.pdb
+D:\Computing Project\SSMS 3 - Final\SMSS 3\bin\Debug\SSMS_DATABASE.accdb
+D:\Computing Project\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.exe
+D:\Computing Project\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.pdb
+D:\Computing Project\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.xml
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbprojResolveAssemblyReference.cache
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Count_1.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Count_2.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Fgt_Pass.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Login.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Log_Out.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Pick_1.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Pick_SIA.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+D:\Computing Project\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.Cache
+D:\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.exe.config
+D:\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.exe
+D:\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.xml
+D:\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.pdb
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\bin\Debug\SSMS_DATABASE.accdb
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.exe.config
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.exe
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.pdb
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.xml
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbprojAssemblyReference.cache
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Count_1.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Count_2.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Fgt_Pass.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Login.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Log_Out.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Pick_1.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Pick_SIA.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.cache
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbproj.CoreCompileInputs.cache
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.exe
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.xml
+H:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.pdb
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\bin\Debug\SSMS_DATABASE.accdb
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.exe.config
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.exe
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.pdb
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.xml
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbprojAssemblyReference.cache
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Count_1.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Count_2.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Fgt_Pass.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Login.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Log_Out.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Pick_1.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Pick_SIA.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.cache
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbproj.CoreCompileInputs.cache
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.exe
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.xml
+D:\College 18-19\Rhys Jones - Unit 5\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.pdb
+D:\Upload\SSMS 3 - Final\SMSS 3\bin\Debug\SSMS_DATABASE.accdb
+D:\Upload\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.exe.config
+D:\Upload\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.exe
+D:\Upload\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.pdb
+D:\Upload\SSMS 3 - Final\SMSS 3\bin\Debug\SMSS 3.xml
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbproj.AssemblyReference.cache
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbproj.SuggestedBindingRedirects.cache
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Add_Item.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_1.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_2.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_3.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Binning_4.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Count_1.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Count_2.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Del_Item.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Fgt_Pass.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Item_Management.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Item_Search.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Login.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Log_Out.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Main_Menu.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Resources.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Pick_1.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Pick_SIA.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Sales_Floor.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS_3.Spl_Scr.resources
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbproj.GenerateResource.cache
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SSMS 3.vbproj.CoreCompileInputs.cache
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.exe
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.xml
+D:\Upload\SSMS 3 - Final\SMSS 3\obj\Debug\SMSS 3.pdb
